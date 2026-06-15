@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey there, I'm Nakul Dhule
+# 👋 Hey there, I'm Anuj Decoded
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=UG+Student+%7C+Frontend+Developer;Frontend+%2B+Backend+Engineer;React+%7C+Next.js+%7C+Node.js+%7C+PHP;Machine+Learning+Enthusiast;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -91,35 +91,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Codewithnikku&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codewithnikku/Codewithnikku/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Codewithnikku/Codewithnikku/output/github-snake.svg" />
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Codewithnikku/Codewithnikku/output/github-snake.svg" />
-  </picture>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Codewithnikku&theme=tokyonight&no-frame=true&margin-w=6&row=1" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🔝 Top Contributed Repos
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Codewithnikku&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" />
 </div>
 
 ---

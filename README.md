@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Nakul Dhule
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=UG+Student+%7C+Full+Stack+Developer;Frontend+%2B+Backend+Engineer;React+%7C+Next.js+%7C+Node.js+%7C+PHP;Machine+Learning+Enthusiast;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=UG+Student+%7C+Frontend+Developer;Frontend+%2B+Backend+Engineer;React+%7C+Next.js+%7C+Node.js+%7C+PHP;Machine+Learning+Enthusiast;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 

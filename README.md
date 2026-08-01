@@ -129,25 +129,7 @@
 ---
 
 <div align="center">
-
-```
-01010011 01010100 01000001 01010100 01010011
-```
-
-## 📊 :: GITHUB_STATS.dat ::
-
-<img src="https://github-readme-stats.vercel.app/api?username=Codewithnikku&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codewithnikku&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="Top Languages" />
-
-<img src="https://streak-stats.demolab.com/?user=Codewithnikku&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-<div align="center">
-
+  
 ```
 01010001 01010101 01001111 01010100 01000101
 ```

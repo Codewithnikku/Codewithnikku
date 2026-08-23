@@ -151,7 +151,12 @@
 
 [![](https://komarev.com/ghpvc/?username=Codewithnikku&color=6E40C9&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Codewithnikku)
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer" width="100%"/>
+
 
 ```
 01000101 01001110 01000100 00100000 01001111 01000110 00100000 01010100 01010010 01000001 01001110 01010011 01001101 01001001 01010011 01010011 01001001 01001111 01001110
